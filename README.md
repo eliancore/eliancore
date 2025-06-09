@@ -30,8 +30,8 @@ I build at the intersection of clarity, creativity, and control.
 
 ### 📫 Contact
 
-- 🌐 [eliancore.dev](https://eliancore.dev) *(coming soon)*  
-- 📮 contact@eliancore.dev
+- 🌐 [eliancore.dev](https://eliancore.tech) *(coming soon)*  
+- 📮 contact@eliancore.tech
 
 ---
 
